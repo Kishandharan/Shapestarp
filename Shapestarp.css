@@ -1,0 +1,81 @@
+    .dot-xxl{
+			border-radius: 100px;
+			width: 200px;
+			height: 200px;
+			margin: 2px;
+		}
+
+		.dot-xl{
+			border-radius: 80px;
+			width: 150px;
+			height: 150px;
+			margin: 2px;
+		}
+
+		.dot-lg{
+			border-radius: 60px;
+			width: 90px;
+			height: 90px;
+			margin: 2px;
+		}
+
+		.dot-med{
+			border-radius: 50px;
+			width: 55px;
+			height: 55px;
+			margin: 2px;
+		}
+
+		.dot-sm{
+			border-radius: 50px;
+			width: 30px;
+			height: 30px;
+			margin: 2px;
+		}
+
+		.dot-xsm{
+			border-radius: 50px;
+			width: 20px;
+			height: 20px;
+			margin: 2px;
+		}
+
+		.dot-xxsm{
+			border-radius: 50px;
+			width: 11px;
+			height: 11px;
+			margin: 2px;
+		}
+
+
+		.black{
+			background-color: black;
+		}
+
+		.red{
+			background-color: red;
+		}
+
+		.orange{
+			background-color: orange;
+		}
+
+		.yellow{
+			background-color: yellow;
+		}
+
+		.yellowgreen{
+			background-color: yellowgreen;
+		}
+
+		.dodgerblue{
+			background-color: dodgerblue;
+		}
+
+		.deeppink{
+			background-color: deeppink;
+		}
+
+		.royalblue{
+			background-color: royalblue;
+		}

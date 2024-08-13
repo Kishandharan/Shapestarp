@@ -1,0 +1,165 @@
+    
+	    .circle-xxl{
+			border-radius: 300px;
+			width: 200px;
+			height: 200px;
+			margin: 2px;
+		}
+
+		.circle-xl{
+			border-radius: 300px;
+			width: 150px;
+			height: 150px;
+			margin: 2px;
+		}
+
+		.circle-lg{
+			border-radius: 300px;
+			width: 90px;
+			height: 90px;
+			margin: 2px;
+		}
+
+		.circle-med{
+			border-radius: 300px;
+			width: 55px;
+			height: 55px;
+			margin: 2px;
+		}
+
+		.circle-sm{
+			border-radius: 300px;
+			width: 30px;
+			height: 30px;
+			margin: 2px;
+		}
+
+		.circle-xsm{
+			border-radius: 300px;
+			width: 20px;
+			height: 20px;
+			margin: 2px;
+		}
+
+		.circle-xxsm{
+			border-radius: 300px;
+			width: 11px;
+			height: 11px;
+			margin: 2px;
+		}
+
+		.square-xxl{
+			margin: 2px;
+			width: 200px;
+			height: 200px;
+		}
+
+		.square-xl{
+			margin: 2px;
+			width: 150px;
+			height: 150px;
+		}
+
+		.square-lg{
+			margin: 2px;
+			width: 90px;
+			height: 90px;
+		}
+
+		.square-med{
+			margin: 2px;
+			width: 55px;
+			height: 55px;
+		}
+
+		.square-sm{
+			margin: 2px;
+			width: 30px;
+			height: 30px;
+		}
+
+		.square-xsm{
+			margin: 2px;
+			width: 20px;
+			height: 20px;
+		}
+
+		.square-xxsm{
+			margin: 2px;
+			width: 11px;
+			height: 11px;
+		}
+
+		.rect-xxl{
+			width: 210px;
+			height: 140px;
+			margin: 4px;
+		}
+
+		.rect-xl{
+			width: 150px;
+			height: 100px;
+			margin: 4px;
+		}
+
+		.rect-lg{
+			width: 90px;
+			height: 60px;
+			margin: 4px;
+		}
+
+		.rect-med{
+			width: 54px;
+			height: 36px;
+			margin: 4px;
+		}
+
+		.rect-sm{
+			width: 30px;
+			height: 20px;
+			margin: 4px;
+		}
+
+		.rect-xsm{
+			width: 21px;
+			height: 14px;
+			margin: 4px;
+		}
+
+		.rect-xxsm{
+			width: 12px;
+			height: 8px;
+			margin: 4px;
+		}
+
+		.black{
+			background-color: black;
+		}
+
+		.red{
+			background-color: red;
+		}
+
+		.orange{
+			background-color: orange;
+		}
+
+		.yellow{
+			background-color: yellow;
+		}
+
+		.yellowgreen{
+			background-color: yellowgreen;
+		}
+
+		.dodgerblue{
+			background-color: dodgerblue;
+		}
+
+		.deeppink{
+			background-color: deeppink;
+		}
+
+		.royalblue{
+			background-color: royalblue;
+		}

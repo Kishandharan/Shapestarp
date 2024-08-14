@@ -1,0 +1,165 @@
+    
+	    div.circle-xxl{
+			border-radius: 300px;
+			width: 200px;
+			height: 200px;
+			margin: 2px;
+		}
+
+		div.circle-xl{
+			border-radius: 300px;
+			width: 150px;
+			height: 150px;
+			margin: 2px;
+		}
+
+		div.circle-lg{
+			border-radius: 300px;
+			width: 90px;
+			height: 90px;
+			margin: 2px;
+		}
+
+		div.circle-med{
+			border-radius: 300px;
+			width: 55px;
+			height: 55px;
+			margin: 2px;
+		}
+
+		div.circle-sm{
+			border-radius: 300px;
+			width: 30px;
+			height: 30px;
+			margin: 2px;
+		}
+
+		div.circle-xsm{
+			border-radius: 300px;
+			width: 20px;
+			height: 20px;
+			margin: 2px;
+		}
+
+		div.circle-xxsm{
+			border-radius: 300px;
+			width: 11px;
+			height: 11px;
+			margin: 2px;
+		}
+
+		div.square-xxl{
+			margin: 2px;
+			width: 200px;
+			height: 200px;
+		}
+
+		div.square-xl{
+			margin: 2px;
+			width: 150px;
+			height: 150px;
+		}
+
+		div.square-lg{
+			margin: 2px;
+			width: 90px;
+			height: 90px;
+		}
+
+		div.square-med{
+			margin: 2px;
+			width: 55px;
+			height: 55px;
+		}
+
+		div.square-sm{
+			margin: 2px;
+			width: 30px;
+			height: 30px;
+		}
+
+		div.square-xsm{
+			margin: 2px;
+			width: 20px;
+			height: 20px;
+		}
+
+		div.square-xxsm{
+			margin: 2px;
+			width: 11px;
+			height: 11px;
+		}
+
+		div.rect-xxl{
+			width: 210px;
+			height: 140px;
+			margin: 4px;
+		}
+
+		div.rect-xl{
+			width: 150px;
+			height: 100px;
+			margin: 4px;
+		}
+
+		div.rect-lg{
+			width: 90px;
+			height: 60px;
+			margin: 4px;
+		}
+
+		div.rect-med{
+			width: 54px;
+			height: 36px;
+			margin: 4px;
+		}
+
+		div.rect-sm{
+			width: 30px;
+			height: 20px;
+			margin: 4px;
+		}
+
+		div.rect-xsm{
+			width: 21px;
+			height: 14px;
+			margin: 4px;
+		}
+
+		div.rect-xxsm{
+			width: 12px;
+			height: 8px;
+			margin: 4px;
+		}
+
+		div.black{
+			background-color: black;
+		}
+
+		div.red{
+			background-color: red;
+		}
+
+		div.orange{
+			background-color: orange;
+		}
+
+		div.yellow{
+			background-color: yellow;
+		}
+
+		div.yellowgreen{
+			background-color: yellowgreen;
+		}
+
+		div.dodgerblue{
+			background-color: dodgerblue;
+		}
+
+		div.deeppink{
+			background-color: deeppink;
+		}
+
+		div.royalblue{
+			background-color: royalblue;
+		}
